@@ -27,18 +27,17 @@ D4 *switches also ESP Blue LED so maybe use oter Pin
 
 ### i2c:
 
-D1 SCL
+D1 - SCL
 
-D2 SDA
-
+D2 - SDA
 
 
 ### Relays:
 
-D5 Relay1
+D5 - Relay1
 
-D6 Relay2
+D6 - Relay2
 
-D7 Relay3
+D7 - Relay3
 
-D4 Relay4
+D4 - Relay4
