@@ -7,7 +7,7 @@ Modified 04-2017
 4-Relay Module controll over WiFi
 Tested on WeMos D1 mini
 
-used Pins:
+### used Pins:
 
 5V
 
@@ -25,7 +25,7 @@ D4 *switches also ESP Blue LED so maybe use oter Pin
 
 ## LCD Version:
 
-i2c:
+### i2c:
 
 D1 SCL
 
@@ -33,7 +33,7 @@ D2 SDA
 
 
 
-Relays:
+### Relays:
 
 D5 Relay1
 
